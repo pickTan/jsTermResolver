@@ -10,5 +10,5 @@
 //例如：
 // 字符串 'new Data().getTime() > 5000 || state.now'进行词法分析
 // 传入 var state =  {now:'hahaha'};
-// 通过词法分析成[{number:1546771382750},{contrast:'>'},{link:'||'},string:'hahaha']
+// 通过词法分析成[{token:new Data().getTime()},{contrast:'>'},{link:'||'},token:'hahaha']
 //
