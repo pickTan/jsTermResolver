@@ -1,0 +1,31 @@
+{
+  "name": "jsTermResolver",
+  "version": "1.0.0",
+  "description": "字符串转js条件解析器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pickTan/cavansPhotomontage.git"
+  },
+  "keywords": [
+    "canvans",
+    "image",
+    "compound"
+  ],
+  "author": "fynnpeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pickTan/jsTermResolver/issues"
+  },
+  "homepage": "https://github.com/pickTan/jsTermResolver#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "babel-loader": "^8.0.5",
+    "eslint": "^5.12.0",
+    "webpack": "^4.28.3",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
